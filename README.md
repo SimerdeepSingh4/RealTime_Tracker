@@ -22,14 +22,6 @@ A real-time location sharing web application built using **Node.js**, **Socket.I
 - 📱 Responsive design for mobile and desktop
 - ⚙️ Powered by an Express.js server and EJS templating
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots here to showcase your app visually)*
-
----
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
@@ -40,10 +32,10 @@ A real-time location sharing web application built using **Node.js**, **Socket.I
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/live-location-app.git
+git clone https://github.com/SimerdeepSingh4/RealTime_Tracker.git
 
 # Navigate into the project directory
-cd live-location-app
+cd RealTime_Tracker
 
 # Install dependencies
 npm install
